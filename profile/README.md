@@ -2,5 +2,5 @@
 ## Host your projects here: https://beta.eurofusionhosting.com
 ### Here you can find:
 - Examples for your projects ✨
-- Open Source Services of EuroFusion Hosting 💻
+- Open-source services of EuroFusion Hosting 💻
 - And more... 🎉
